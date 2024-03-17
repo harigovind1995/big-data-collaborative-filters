@@ -1,13 +1,6 @@
 # Big_Data_Project
 
 
-In this project,
-we conduct research on collaborative filtering approach with
-latent factor decomposition, a matrix factorization approach
-to decompose user-item interaction information to recommend users’ most relevant items, with Alternative Least
-Square method. We utilize PySpark (version 2.4.0) and implement baseline model on HPC environment. We further
-implement model on single-machine to compare its performance from HPC settings, and conduct various visualization
-to detect the hidden correlations between latent factors and
-other features.
+In this project, we explore the collaborative filtering method using latent factor decomposition, specifically through matrix factorization techniques, to break down user-item interactions for enhanced item recommendations using the Alternating Least Squares method. The research utilizes PySpark (version 2.4.0) and is initially conducted in a High-Performance Computing (HPC) environment before transitioning to a single-machine model to evaluate performance differences. Additionally, we employ several visualization techniques to uncover hidden relationships between latent factors and other attributes.
 
 If you have any questions, you can reach out to me harigovind.padmarajan@utdallas.edu
