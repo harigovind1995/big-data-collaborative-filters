@@ -10,4 +10,4 @@ implement model on single-machine to compare its performance from HPC settings, 
 to detect the hidden correlations between latent factors and
 other features.
 
-If you have any questions, you can reach out to me hg1153@nyu.edu
+If you have any questions, you can reach out to me harigovind.padmarajan@utdallas.edu
